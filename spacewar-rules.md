@@ -132,3 +132,4 @@
 130. Se o inimigo estiver fugindo utilize o Colisor de Hádrons.
 131. Se você entrar no buraco negro numero 32, encontrará o monstro do lago Nass.
 132. Caso você compre um Space Lanche Feliz na SpaceDonald's, você ganhará uma miniatura do do Chewbacca.
+133. Se você tiver a miniatura do Chewbacca, ganhe uma a "Star" do mario bros.
